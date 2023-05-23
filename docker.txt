@@ -1,4 +1,8 @@
-Docker é um gerenciador de containers
-Esta linha foi inserida no GitHub
+Docker é um gerenciador de containers.
+Esta linha foi inserida no GitHub.
 Esta linha foi inserida na branch ramo1.
+<<<<<<< HEAD
 Esta linha vai criar um conflito local.
+=======
+Esta linha vai gerar conflitos
+>>>>>>> 42b445e4be31f6f7267ef3ff85846ae78f2fbdd8
